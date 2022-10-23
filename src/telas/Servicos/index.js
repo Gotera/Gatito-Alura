@@ -26,7 +26,7 @@ const servicos = [
   ];
 
 export default function Servicos () {
-  return <TelaPadrao>
+  return <>
       <FlatList
         data={servicos}
         removeClippedSubviews={false}
@@ -36,5 +36,5 @@ export default function Servicos () {
         keyExtractor={(item) => item.id}
         
       />
-  </TelaPadrao>
+  </>
 }
