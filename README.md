@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <img src="/Gotera/Gatito-Alura/blob/main/assets/splash.png?raw=true">
+  <img src="https://github.com/Gotera/Gatito-Alura/blob/main/assets/splash.png" width="417" >
 </div>
 
 # Gatito-Alura
