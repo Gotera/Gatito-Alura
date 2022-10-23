@@ -1,4 +1,6 @@
-![splash](https://user-images.githubusercontent.com/106886312/197410144-ec77a179-84bc-4306-a5f0-0da0fa0d2d0f.png)
 
+<div id="header" align="center">
+  <img src="https://github.com/Gotera/Gatito-Alura/blob/main/assets/splash.png" width="100"/>
+</div>
 
 # Gatito-Alura
