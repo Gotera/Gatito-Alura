@@ -36,6 +36,7 @@ To elaborate this project, the following tecnologies was used:
 ⚙️ Instalation
 </h1>
 You will need:
+
 - [Node](https://nodejs.org/en/download/)
 - [Yarn](https://classic.yarnpkg.com/en/docs/install/)
 
